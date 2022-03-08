@@ -1,0 +1,7 @@
+﻿  main.cpp
+  Generating code
+  Previous IOBJ not found, fall back to full compilation.
+D:\Studia\III semestr\Języki i paradygmaty programowania\Projekt2\main\main\Vector.h(214): warning C4715: 'Vector<Node>::at': not all control paths return a value
+  All 219 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  main.vcxproj -> D:\Studia\III semestr\Języki i paradygmaty programowania\Projekt2\main\x64\Release\main.exe

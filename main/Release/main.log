@@ -1,0 +1,31 @@
+﻿  main.cpp
+D:\Studia\III semestr\Języki i paradygmaty programowania\Projekt2\main\main\main.cpp(91,16): warning C4018: '<=': signed/unsigned mismatch
+D:\Studia\III semestr\Języki i paradygmaty programowania\Projekt2\main\main\main.cpp(107,16): warning C4018: '<=': signed/unsigned mismatch
+D:\Studia\III semestr\Języki i paradygmaty programowania\Projekt2\main\main\Vector.h(83,21): warning C4018: '<': signed/unsigned mismatch
+D:\Studia\III semestr\Języki i paradygmaty programowania\Projekt2\main\main\Vector.h(71): message : while compiling class template member function 'void Vector<type>::pushBack(type)'
+          with
+          [
+              type=Node
+          ]
+D:\Studia\III semestr\Języki i paradygmaty programowania\Projekt2\main\main\main.cpp(77): message : see reference to function template instantiation 'void Vector<type>::pushBack(type)' being compiled
+          with
+          [
+              type=Node
+          ]
+D:\Studia\III semestr\Języki i paradygmaty programowania\Projekt2\main\main\VectorFile.h(6): message : see reference to class template instantiation 'Vector<type>' being compiled
+          with
+          [
+              type=Node
+          ]
+D:\Studia\III semestr\Języki i paradygmaty programowania\Projekt2\main\main\main.cpp(31): message : see reference to class template instantiation 'VectorFile<Node>' being compiled
+  MCoord.cpp
+  Mess.cpp
+  Node.cpp
+  Vector.cpp
+  VectorFile.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+D:\Studia\III semestr\Języki i paradygmaty programowania\Projekt2\main\main\Vector.h(205): warning C4715: 'Vector<Node>::at': not all control paths return a value
+D:\Studia\III semestr\Języki i paradygmaty programowania\Projekt2\main\main\main.cpp(94): error C4703: potentially uninitialized local pointer variable 't' used
+  All 214 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+LINK : fatal error LNK1257: code generation failed

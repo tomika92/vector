@@ -1,0 +1,26 @@
+﻿  MCoord.cpp
+  Node.cpp
+  VectorFile.cpp
+  main.cpp
+D:\Studia\III semestr\Języki i paradygmaty programowania\Projekt2\main\main\main.cpp(91,16): warning C4018: '<=': signed/unsigned mismatch
+D:\Studia\III semestr\Języki i paradygmaty programowania\Projekt2\main\main\main.cpp(107,16): warning C4018: '<=': signed/unsigned mismatch
+D:\Studia\III semestr\Języki i paradygmaty programowania\Projekt2\main\main\Vector.h(83,21): warning C4018: '<': signed/unsigned mismatch
+D:\Studia\III semestr\Języki i paradygmaty programowania\Projekt2\main\main\Vector.h(71): message : while compiling class template member function 'void Vector<type>::pushBack(type)'
+          with
+          [
+              type=Node
+          ]
+D:\Studia\III semestr\Języki i paradygmaty programowania\Projekt2\main\main\main.cpp(77): message : see reference to function template instantiation 'void Vector<type>::pushBack(type)' being compiled
+          with
+          [
+              type=Node
+          ]
+D:\Studia\III semestr\Języki i paradygmaty programowania\Projekt2\main\main\VectorFile.h(6): message : see reference to class template instantiation 'Vector<type>' being compiled
+          with
+          [
+              type=Node
+          ]
+D:\Studia\III semestr\Języki i paradygmaty programowania\Projekt2\main\main\main.cpp(31): message : see reference to class template instantiation 'VectorFile<Node>' being compiled
+  Generating Code...
+D:\Studia\III semestr\Języki i paradygmaty programowania\Projekt2\main\main\Vector.h(205): warning C4715: 'Vector<Node>::at': not all control paths return a value
+  main.vcxproj -> D:\Studia\III semestr\Języki i paradygmaty programowania\Projekt2\main\Debug\main.exe

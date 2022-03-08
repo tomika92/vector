@@ -1,0 +1,5 @@
+﻿  VectorFile.cpp
+  main.cpp
+  Generating Code...
+D:\Studia\III semestr\Języki i paradygmaty programowania\Projekt2\main\main\Vector.h(212): warning C4715: 'Vector<Node>::at': not all control paths return a value
+  main.vcxproj -> D:\Studia\III semestr\Języki i paradygmaty programowania\Projekt2\main\x64\Debug\main.exe
